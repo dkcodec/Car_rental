@@ -14,6 +14,8 @@ I used CNA(Create Next App)
   - TypeScript's primary purpose is to improve productivity when developing complex applications. One way this happens is to enable IDEs to have a richer environment to spot common errors while you type the code. This adds a type of safety to your projects.
 - **Tailwind (version ^3.3)**
   - Tailwind CSS is best used to speed up the development process by writing less code. It comes with a design system that helps maintain consistency across various design requirements like padding, spacing, and so forth; with this, you do not have to worry about creating your design systems.
+- **HeadLess UI (version latest)**
+  - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 
 TailWind config and global.css file was taken from [JSMastery Crush course](https://www.youtube.com/watch?v=pUNSHPyVryU). Other parts were writen by hands ^-^
 

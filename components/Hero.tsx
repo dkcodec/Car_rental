@@ -1,9 +1,11 @@
 "use client";
+// Next.js feature for changing setting from SSR to client
 
 import Image from "next/image";
 import React from "react";
 import CustomButton from "./CustomButton";
 
+// component of welcome page
 const Hero = () => {
   const handleScroll = () => {};
 

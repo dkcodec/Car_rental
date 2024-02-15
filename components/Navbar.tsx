@@ -3,6 +3,9 @@ import Image from "next/image";
 
 import CustomButton from "./CustomButton";
 
+// Using Link for Routing(on one page)
+// Using Image as a component for easily addig pictures
+
 const Navbar = () => {
   return (
     <header className="w-full absolute z-10">

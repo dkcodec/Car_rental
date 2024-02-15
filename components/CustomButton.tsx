@@ -1,9 +1,11 @@
 "use client";
+// Next.js feature for changing setting from SSR to client (because using handleClick pre-rendering page)
 
 import React from "react";
 import Image from "next/image";
 import { CustomButtonProps } from "@/types";
 
+// Own custom button for any kinda cases (REUSIBLE BUTTON COMPONENT)
 const CustomButton = ({
   title,
   containerStyles,

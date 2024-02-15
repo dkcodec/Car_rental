@@ -3,6 +3,9 @@ import "./globals.css";
 import { relative } from "path";
 import { Footer, Navbar } from "@/components";
 
+// loyout for what user view
+
+// Is resposible for metaDate and favIcon
 export const metadata: Metadata = {
   title: "Car Hub",
   description: "Discover the best cars in the world!",
